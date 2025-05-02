@@ -1,6 +1,6 @@
 # 📘 Console-Based Library Management System 🖥️📚
 
-A ✨ **beginner-friendly** C# console application to manage a library with basic features for **Admins** and **Users**.  
+A **beginner-friendly** C# console application to manage a library with basic features for **Admins** and **Users**.  
 📁 Uses **CSV file storage** — no need for a database! Clean UI, simple logic, and great for learning File I/O and basic system design.
 
 ---
